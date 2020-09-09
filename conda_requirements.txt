@@ -1,0 +1,6 @@
+#Conda requirements for webGnomeCCA_preprocess
+#install with:
+# conda install --file conda_requirements.txt
+
+
+netcdf4>=1.4.1
